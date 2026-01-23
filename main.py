@@ -13,6 +13,5 @@ def main():
 
     print("ola mundo!")
 
-    
-
-
+     def soma(a, b):
+       return a + b
